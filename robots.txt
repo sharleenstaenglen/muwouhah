@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xoaripaer.parkleap.com/sitemap.xml
